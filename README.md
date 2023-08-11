@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Jia Ying 👋
 
 <!--
 **jiayingo/jiayingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻 I'm Jia Ying, a Software Engineer based in Singapore (UTC+8)
-- 📔 I graduated from [Imperial College London](https://www.imperial.ac.uk/) in 2017 (MEng & ACGI in Electrical & Electronic Engineering, First Class Honours)
-- 🕸 I'm currently working as a web full-stack & cloud developer
-- 🌱 I’m currently learning web3 development for DeFi applications
-- 🧡 I'm passionate about trying out and learning new things
+- 💻 Software Engineer based in Singapore (UTC+8), working as a full-stack web & cloud developer
+- 📔 Graduated from [Imperial College London](https://www.imperial.ac.uk/) in 2017 (MEng & ACGI in Electrical & Electronic Engineering, First Class Honours)
+- 🌱 Currently learning web3 development for DeFi applications
+- 🧡 Passionate about trying out and learning new things
 
 Languages / Frameworks / Databases:
 
