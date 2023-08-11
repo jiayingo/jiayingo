@@ -27,3 +27,7 @@ Languages / Frameworks / Databases:
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Spring-Boot-6DB33F?logo=springboot&logoColor=white&style=flat)
+
