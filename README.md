@@ -20,8 +20,10 @@ Here are some ideas to get you started:
 - 🕸 I'm currently working as a web full-stack & cloud developer
 - 🧡 I'm passionate about trying and learning new things
 
-Languages:
+Languages / Frameworks / Databases:
 
 ![](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-AWS-232F3E?logo=amazongaws&logoColor=white&style=flat)
