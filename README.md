@@ -32,4 +32,4 @@ Languages / Frameworks / Databases:
 ![](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat)
 
 
-![https://www.linkedin.com/in/jia-ying-goh-9b6ab3129/](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)
+![https://www.linkedin.com/in/jia-ying-goh-9b6ab3129/](https://img.shields.io/badge/-0A66C2?logo=linkedin&logoColor=white&style=flat)
