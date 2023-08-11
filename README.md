@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 💻 I'm Jia Ying, a Software Engineer based in Singapore (UTC+8)
 - 📔 I graduated from [Imperial College London](https://www.imperial.ac.uk/) in 2017 with an MEng & ACGI in Electrical & Electronic Engineering (First Class Honours)
 - 🕸 I'm currently working as a web full-stack & cloud developer
+- 🌱 I’m currently learning web3 development for DeFi applications
 - 🧡 I'm passionate about trying and learning new things
 
 Languages / Frameworks / Databases:
