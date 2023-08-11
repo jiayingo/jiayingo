@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 💻 I'm Jia Ying, a Software Developer based in Singapore (UTC+8)
-- 📔 I graduated from [https://www.imperial.ac.uk/](Imperial College London) with an MEng & ACGI in Electrical & Electronic Engineering (First Class Honours) in 2017
+- 📔 I graduated from [Imperial College London](https://www.imperial.ac.uk/) with an MEng & ACGI in Electrical & Electronic Engineering (First Class Honours) in 2017
 - 🕸 I'm currently working as a web full-stack & cloud developer
 - 🧡 I'm passionate about trying and learning new things
 
