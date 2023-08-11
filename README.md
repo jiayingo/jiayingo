@@ -30,4 +30,3 @@ Languages / Frameworks / Databases:
 ![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-Java-6DB33F?logo=java&logoColor=white&style=flat)
