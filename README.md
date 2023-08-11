@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🕸 I'm currently working as a web full-stack & cloud developer
 - 🧡 I'm passionate about trying and learning new things
 
-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jiayingo)](https://github.com/jiayingo/github-readme-stats)
