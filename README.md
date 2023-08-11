@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 Languages & Frameworks:
 
-![](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat&textColor=white)
+![](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat&font=white)
