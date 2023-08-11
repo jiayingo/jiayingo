@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🕸 I'm currently working as a web full-stack & cloud developer
 - 🧡 I'm passionate about trying and learning new thing
 
-<a href="https://www.linkedin.com/in/jia-ying-goh-9b6ab3129/"><img href="https://www.linkedin.com/in/jia-ying-goh-9b6ab3129/" src="https://github.com/jiayingo/jiayingo/assets/132055792/5c2867b0-043a-4b88-967f-32a7a21a5e62" width="50" height="50" /></a>
+[![]([link to image on GH](https://github.com/jiayingo/jiayingo/assets/132055792/5c2867b0-043a-4b88-967f-32a7a21a5e62))]([link to your URL](https://www.linkedin.com/in/jia-ying-goh-9b6ab3129/))
 
 Languages / Frameworks / Databases:
 
